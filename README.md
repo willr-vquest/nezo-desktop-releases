@@ -11,5 +11,5 @@ authentication; the application source is maintained privately.
 
 ## Install
 
-Download the latest `Nezo Setup <version>.exe` from [Releases](../../releases) and run it.
+Download the latest `Nezo-Setup-<version>.exe` from [Releases](../../releases) and run it.
 Windows only. The app updates itself from then on.
